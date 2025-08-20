@@ -1,0 +1,4 @@
+date,salesperson,region,product,amount,customer_type
+2025-01-15,John Smith,North,Software License,2500,Enterprise
+2025-01-16,Sarah Jones,South,Consulting,1800,SMB
+2025-01-17,Mike Chen,West,Software License,3200,Enterprise
